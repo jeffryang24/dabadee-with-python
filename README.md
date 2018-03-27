@@ -1,2 +1,2 @@
-# dabadee-with-python
-Da Ba Dee with Python language. 
+# Dabadee w/ Python
+Learn and play with authentic python language.
